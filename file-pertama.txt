@@ -1,0 +1,6 @@
+Pembuatan Git Hub pertama gue.
+Agenda:
+-commit branch
+-commit branch master
+-pull/push request commit
+-merge commit
